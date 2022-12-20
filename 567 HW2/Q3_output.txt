@@ -1,0 +1,24 @@
+The averaged normalized training error of closed form is 9.212785e-14 in Problem Set 3.1
+The averaged normalized test error of closed form is 4.203292 in Problem Set 3.1
+Average error for l2 regularization:
+0.000500 0.002045 0.767270
+0.005000 0.003629 0.388617
+0.050000 0.006061 0.231774
+0.500000 0.016417 0.226951
+5.000000 0.069825 0.350943
+50.000000 0.293807 0.582674
+500.000000 0.742341 0.866291
+Average error for different step size of SGD:
+0.000050 0.014737 0.239127
+0.000500 0.005997 0.228717
+0.005000 0.005299 0.362022
+The averaged normalized training error of w_true is 0.048503 in Problem Set 3.3
+The averaged normalized test error of w_true is 0.050829 in Problem Set 3.3
+Average error for different radius:
+0.000000 0.014753 0.239233
+0.100000 0.014771 0.239111
+0.500000 0.014655 0.238263
+1.000000 0.014653 0.240453
+10.000000 0.015721 0.303844
+20.000000 0.022656 0.386921
+30.000000 0.035345 0.677659
